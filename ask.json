@@ -1,0 +1,1 @@
+{"Q": "Does animal have hoove?", "yes": {"Q": "Does the animal have stripes?", "yes": {"Answer": "Zebra"}, "no": {"Q": "Does the animal have horns?", "yes": {"Answer": "cow"}, "no": {"Answer": "horse"}}}, "no": {"Q": "can it fly?", "yes": {"Answer": "bird"}, "no": {"Answer": "Elephant"}}}
